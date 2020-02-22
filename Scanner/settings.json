@@ -1,0 +1,5 @@
+{
+  "PathFileIn": "c:/homepath/data/in",
+  "PathFileOut": "c:/homepath/data/out",
+  "Filters": "*.*"
+}
